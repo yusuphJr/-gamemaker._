@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #0f0f0f, #1f1f1f);
+  color: #fff;
+}
+header, footer {
+  padding: 1em;
+  text-align: center;
+}
+nav a {
+  margin: 0 1em;
+  color: #00fff7;
+  text-decoration: none;
+}
+nav a:hover {
+  text-shadow: 0 0 5px #00fff7;
+}
